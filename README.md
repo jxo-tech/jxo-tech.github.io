@@ -2,10 +2,7 @@
 This will be me speaking about whatever I have going on and trying some coding, too.
 
 
-So today I created this for a class thing, but once I think about it. I actually wanted to learn how to code for games and maybe test things in games like Roblox.
-
-I don't want to download anything here because I know people might hide things in the code to install a RAT on my desktop.  So this is why I am here, also to learn new things.
-
+So today I created this for class, and I will also use this on my resume. I do apologize if it is not up to par or well-made. I am still a beginner on this. 
 
 UPDATED BLOG 11/27/2025
 I just wanted to talk about a little experience I had in cybersecurity. I am currently working at a credit union's headquarters.
